@@ -43,6 +43,11 @@ small{
     margin: auto;
 
 }
+
+.project-link{
+    /*padding-left: 15rem; */
+    /**text-align: center; */
+}
 /** links **/
 .link {
     box-sizing: border-box;
